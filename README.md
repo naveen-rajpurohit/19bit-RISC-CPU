@@ -1,1 +1,1 @@
-# CPU-Vicharak
+# CPU
